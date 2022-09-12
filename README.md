@@ -36,7 +36,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 [The URL of the deployed application.](https://noori36.github.io/PasswordGenerator/)
 
-[The URL of the GitHub repository.](https://github.com/noori36/PasswordGenerator)
+[The URL of the GitHub repository.](https://github.com/noori36/Professional-Portfolio)
 
 
 ## Screenshot
