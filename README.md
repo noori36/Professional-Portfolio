@@ -43,6 +43,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 Once deployed the application can be viewed in a traditional desktop web browser. <br />
 <br />
 ![Alt text](https://github.com/noori36/Professional-Portfolio/blob/main/assets/images/screenshot.png?raw=true "Optional Title")
+<br><img src="./assets/images/screenshot.png" alt="index page" width="350"/>
 
 
 ## License
